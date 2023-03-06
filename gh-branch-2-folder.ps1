@@ -1,4 +1,4 @@
-# Set the GitHub repository URL and the local directory to clone to
+# Set the GitHub repository
 $repoOwner = "repo-owner"
 $repoName = "repo-name"
 
